@@ -1,0 +1,14 @@
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\bin\Debug\net9.0\LibSystem.exe
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\bin\Debug\net9.0\LibSystem.deps.json
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\bin\Debug\net9.0\LibSystem.runtimeconfig.json
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\bin\Debug\net9.0\LibSystem.dll
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\bin\Debug\net9.0\LibSystem.pdb
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.AssemblyInfoInputs.cache
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.AssemblyInfo.cs
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.csproj.CoreCompileInputs.cache
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.dll
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\refint\LibSystem.dll
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.pdb
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.genruntimeconfig.cache
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\ref\LibSystem.dll

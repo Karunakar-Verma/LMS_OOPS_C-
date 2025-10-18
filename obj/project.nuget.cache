@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMfnFVvzjzM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karunakar Verma\\OneDrive\\Desktop\\dotnet\\LibraryOOps\\LibSystem\\LibSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karunakar Verma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.10\\microsoft.windowsdesktop.app.ref.9.0.10.nupkg.sha512",
+    "C:\\Users\\Karunakar Verma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.10\\microsoft.aspnetcore.app.ref.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
