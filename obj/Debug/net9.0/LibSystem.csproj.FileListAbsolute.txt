@@ -12,3 +12,4 @@ C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug
 C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.pdb
 C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.genruntimeconfig.cache
 C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\ref\LibSystem.dll
+C:\Users\Karunakar Verma\OneDrive\Desktop\dotnet\LibraryOOps\LibSystem\obj\Debug\net9.0\LibSystem.sourcelink.json
